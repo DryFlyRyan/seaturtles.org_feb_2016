@@ -59,4 +59,4 @@ Deliverables:
 
 **Estimate: 2 hrs @ 100/hr**
 
-<h3>**Anticipated Total:** *$2000.00 for 20 Hrs*</h3>
+<h3>Anticipated Total: $2000.00 for 20 Hrs</h3>
