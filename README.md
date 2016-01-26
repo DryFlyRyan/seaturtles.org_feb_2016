@@ -46,7 +46,8 @@ Deliverables:
 
 **Estimate: 12 hrs @ $100/hr**
 
-Google News --
+**Google News** </br>
+*Anticipated Need Date: Time Insensitive*
 
 *Problems*
 * Not showing up in Google News SERP
